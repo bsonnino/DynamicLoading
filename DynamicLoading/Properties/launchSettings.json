@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DynamicLoading (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DynamicLoading (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
